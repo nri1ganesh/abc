@@ -45,5 +45,7 @@ public class CalculatorTest {
 	{
 		System.out.println("hehai");
 	}
-
+public static void disp() {
+	System.out.println("hello");
+}
 }
